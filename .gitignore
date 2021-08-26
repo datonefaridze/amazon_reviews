@@ -1,0 +1,11 @@
+# PyCharm settings
+.idea
+
+# VSCode settings
+.vscode
+
+/data/
+# Cache files
+__pycache__/
+*.pyc
+
